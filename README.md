@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @h0rridus
+- 👀 I’m interested in programming and reverse engineering.
+- 📫 Contact
+  - Email: hQfajLdWVhoPgAK@proton.me
+  - Discord: Horridus#2190
